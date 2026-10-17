@@ -1,0 +1,8 @@
+[
+  { "id": 1, "code": "CS-101", "name": "Web Development 2", "category": "Core CS", "instructor": "Prof. Santos", "units": 3, "grade": 97, "weeklyGrades": [91, 94, 96, 96, 97, 93], "standing": "Passing" },
+  { "id": 2, "code": "CS-102", "name": "Database Systems", "category": "Core CS", "instructor": "Prof. Garcia", "units": 3, "grade": 72, "weeklyGrades": [63, 66, 73, 68, 70, 72], "standing": "Failing" },
+  { "id": 3, "code": "CS-103", "name": "Data Structures", "category": "Core CS", "instructor": "Prof. Reyes", "units": 4, "grade": 88, "weeklyGrades": [82, 85, 87, 87, 89, 88], "standing": "Passing" },
+  { "id": 4, "code": "CS-104", "name": "Software Engineering", "category": "Elective", "instructor": "Prof. Cruz", "units": 3, "grade": 63, "weeklyGrades": [54, 57, 64, 59, 61, 63], "standing": "Failing" },
+  { "id": 5, "code": "CS-105", "name": "Network Admin", "category": "Networking", "instructor": "Prof. Mendoza", "units": 3, "grade": 76, "weeklyGrades": [69, 72, 79, 74, 76, 74], "standing": "Warning" },
+  { "id": 6, "code": "GE-101", "name": "Ethics in IT", "category": "General Ed", "instructor": "Prof. Bautista", "units": 3, "grade": 92, "weeklyGrades": [85, 88, 90, 90, 92, 90], "standing": "Passing" }
+]
